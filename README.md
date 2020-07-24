@@ -17,4 +17,4 @@ Overall, I'm very pleased with how it came out.
 The only addition / modification is I'm waiting for a PG7 1/2" NPT gland for strain relief on the cable.
 Otherwise there will probably be no updates, as this is a bare simple project with almost no coding or programming whatsoever. 
 
-https://raw.githubusercontent.com/detonation/media-pendant/master/pendant-resized.jpg
+<img src="./pendant-resized.jpg">
